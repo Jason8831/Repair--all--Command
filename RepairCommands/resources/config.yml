@@ -1,0 +1,12 @@
+NoPerm: "§f[§l§4ERROR§r§f]: Vous n'avez pas la permission d'utiliser cette commande."
+UseInfo: "§f[§l§4ERROR§r§f]: Veuillez faire /repair all."
+#REPAIR ALL
+CooldownRepairAll: "86400" #86400 = 24h
+RepairAllMessage: "§f[§4Repair§r§f]: §l§4{count} §r§fitem(s) viennent d'être réparé." #VARIABLE | {count}
+NoUseMessage: "§f[§4Repair§r§f]: Vous pourrez réutiliser cette commande dans §l§4{time}" #VARIABLE | {time}
+
+#REPAIR
+NoDurabilityItem: "§f[§3Repair§r§f]: L'item dans votre main ne possède pas de durabilité."
+NoRepairUse: "§f[§3Repair§r§f]: L'item dans votre main a déjà sa durabilité au maximum."
+CooldownRepair: "86400" #86400 = 24h
+NoTimeUseRepair: "§f[§4Repair§r§f]: Vous pourrez réutiliser cette commande dans §l§4{time}"  #VARIABLE | {time}

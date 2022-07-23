@@ -1,0 +1,10 @@
+name: RepairCommand
+version: 1.0.0
+api: 4.0.0
+main: Jason8831\Repair\Main
+author: Jason8831
+permissions:
+  repair.all.use:
+    default: op
+  repair.use:
+    default: op
